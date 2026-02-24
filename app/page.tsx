@@ -377,7 +377,7 @@ export default function Home() {
                 <div className="space-y-4">
                   <h3 className="text-2xl font-bold text-white font-cinzel">Proven Performance</h3>
                   <p className="text-white/70 leading-relaxed">
-                    Over 500 vessels worldwide trust our systems. Our certified manufacturing ensures consistent quality and reliability in the harshest conditions.
+                    Over 30,000 vessels worldwide trust our systems. Our certified manufacturing ensures consistent quality and reliability in the harshest conditions.
                   </p>
                   
                   {/* Features */}
