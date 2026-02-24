@@ -327,7 +327,7 @@ export default function Home() {
                 {/* Icon/Number */}
                 <div className="flex items-center justify-between">
                   <div className="w-16 h-16 rounded-full bg-amber-400/10 flex items-center justify-center">
-                    <div className="text-2xl font-bold text-amber-400 font-cinzel">100%</div>
+                    <div className="text-1xl font-bold text-amber-400 font-cinzel">100%</div>
                   </div>
                   <div className="text-white/30 text-5xl font-bold">02</div>
                 </div>
@@ -368,7 +368,7 @@ export default function Home() {
                 {/* Icon/Number */}
                 <div className="flex items-center justify-between">
                   <div className="w-16 h-16 rounded-full bg-amber-400/10 flex items-center justify-center">
-                    <div className="text-2xl font-bold text-amber-400 font-cinzel">500+</div>
+                    <div className="text-1xl font-bold text-amber-400 font-cinzel">30K+</div>
                   </div>
                   <div className="text-white/30 text-5xl font-bold">03</div>
                 </div>
